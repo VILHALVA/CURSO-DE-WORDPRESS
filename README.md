@@ -32,7 +32,20 @@
 * 💻WP mail SMTP
 * 💻WP Super Cache
 * 💻WPForms Lite 
-* 💻WPS hide login 
+* 💻WPS hide login
+
+## 💨INSTALANDO O WORDPRESS:
+1. Baixe e Instale o servidor o [XAMPP](https://br.wordpress.org/)
+
+2. Baixe o [WORDPRESS](https://br.wordpress.org/)
+
+3. Dentro do repositório `C:\xampp\htdocs` (Dentro do "htdocs" crie uma pasta. Ex: "cursowp").
+
+4. Descopactue o arquivo ZIP do `WORDPRESS` e coloque dentro do repositório ´C:\xampp\htdocs/cursowp´ 
+
+5. Acesse o site clicando [aqui](http://localhost/cursowp/wp-admin/index.php) ou digite na url do navegador: `http://localhost/cursowp`
+
+6. Pronto. É só usar o WordPress e ser feliz!
 
 # 😒TEMATICAS:
 ## [MÓDULO 1: CRIANDO O SITE DO ZERO](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
