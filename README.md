@@ -34,7 +34,7 @@
 * 💻WPForms Lite 
 * 💻WPS hide login
 
-## 💨INSTALANDO O WORDPRESS:
+# 💨INSTALANDO O WORDPRESS:
 1. Baixe e Instale o servidor o [XAMPP](https://br.wordpress.org/)
 
 2. Baixe o [WORDPRESS](https://br.wordpress.org/)
