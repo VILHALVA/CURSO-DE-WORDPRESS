@@ -83,7 +83,7 @@
 * ✅ LIGANDO O WORDPRESS AO TELEGRAM
 
 # 💌VIDEOS DO YOUTUBE:
-* [CLIQUE AQUI PARA ASSISTIR A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=YA5OPfv78j6-FEYe)
+* [CLIQUE AQUI PARA ASSISTIR A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
 
 ![](https://i.imgur.com/waxVImv.png)
 
