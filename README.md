@@ -17,36 +17,6 @@
 * 💻[INSTALAR O PUTTY](https://www.putty.org/)
 * 💻[INSTALAR O WORDPRESS](https://br.wordpress.org/)
 
-# [💜PLUGINS REQUERIDOS:](https://youtu.be/8PtdqWY3y20)
-* 💻Astra Widgets 
-* 💻Companion auto update
-* 💻editor clássico 
-* 💻EWWW image optimizer
-* 💻Google Analytics for WordPress
-* 💻Importador do word press
-* 💻Microthemer 
-* 💻Rank Math SEO
-* 💻Really Simple SSL
-* 💻Ultimate Addons for gutemberg 
-* 💻updraftPLus backup 
-* 💻WP mail SMTP
-* 💻WP Super Cache
-* 💻WPForms Lite 
-* 💻WPS hide login
-
-# 💨INSTALANDO O WORDPRESS:
-1. Baixe e Instale o servidor o [XAMPP](https://br.wordpress.org/)
-
-2. Baixe o [WORDPRESS](https://br.wordpress.org/)
-
-3. Dentro do repositório `C:\xampp\htdocs` (Dentro do "htdocs" crie uma pasta. Ex: "cursowp").
-
-4. Descopactue o arquivo ZIP do `WORDPRESS` e coloque dentro do repositório ´C:\xampp\htdocs/cursowp´ 
-
-5. Acesse o site clicando [aqui](http://localhost/cursowp/wp-admin/index.php) ou digite na url do navegador: `http://localhost/cursowp`
-
-6. Pronto. É só usar o WordPress e ser feliz!
-
 # 😒TEMATICAS:
 ## [MÓDULO 1: CRIANDO O SITE DO ZERO](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
 * ✅ CONCEITO E HISTÓRIA DO WORDPRESS
@@ -82,8 +52,8 @@
 * ✅ CRIANDO TRADUÇÕES
 * ✅ LIGANDO O WORDPRESS AO TELEGRAM
 
-# 💌VIDEOS DO YOUTUBE:
-* [CLIQUE AQUI PARA ASSISTIR A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
+# 📹VIDEOS DO YOUTUBE:
+* [A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
 
 ![](https://i.imgur.com/waxVImv.png)
 
