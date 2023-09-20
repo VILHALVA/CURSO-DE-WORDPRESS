@@ -53,6 +53,8 @@
 * ✅ LIGANDO O WORDPRESS AO TELEGRAM
 
 # 📹VIDEOS DO YOUTUBE:
+* [CRIANDO SITE NO WORDPRESS COM TAMPLATE PRONTA](https://youtu.be/_wBsTdvTwZ0?si=Y01y_iIzmI4pnKbR)
+* [CRIANDO SITE NO WORDPRESS](https://youtu.be/hQscp7Nixho?si=8r7CPKfZ-E134AkQ)
 * [A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
 
 ![](https://i.imgur.com/waxVImv.png)
