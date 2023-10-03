@@ -2,60 +2,14 @@
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB COM WORDPRESS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=wordpress)
+
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://wordpress.org/documentation/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex)
 
 <img src="https://avatars.githubusercontent.com/u/46797108?s=280&v=4" align="center" width="280"> <br>
-
-# 🤷‍♂️REQUESITOS:
-* 🤯[SABER HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS)
-* 🤯[SABER PROGRAMAR EM JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* 🤯[SABER PROGRAMAR EM PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
-* 💻[INSTALAR O FILEZILLA](https://filezilla-project.org/)
-* 💻[INSTALAR O PUTTY](https://www.putty.org/)
-* 💻[INSTALAR O WORDPRESS](https://br.wordpress.org/)
-
-# 😒TEMATICAS:
-## [MÓDULO 1: CRIANDO O SITE DO ZERO](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
-* ✅ CONCEITO E HISTÓRIA DO WORDPRESS
-* ✅ INSTALANDO FERRAMENTAS
-* ✅ PAINEL DE CONTROLE
-* ✅ PALETA DE CORES
-* ✅ ESCOLHENDO FONTES
-* ✅ IMAGENS NO SITE
-* ✅ MENÚS
-* ✅ TOPO E RODAPÉ
-* ✅ DESTAQUE DO SITE
-* ✅ COLUNAS E CAIXAS
-* ✅ SEÇÃO DE CARDAPIOS
-* ✅ SEÇÃO DE TEMAS
-* ✅ RODAPÉ PERSONALIZADO E ASTRA
-* ✅ MICROTHEMER
-* ✅ FORMULÁRIOS
-* ✅ POSTS
-* ✅ PÁGINAS DE NOTICIAS
-* ✅ PÁGINAS INTERNAS
-* ✅ RESPONSIVIDADE
-* ✅ MODELOS DE ASTRA
-* ✅ CRIANDO UM GRAVADOR
-
-## [MÓDULO 2: SEGURANÇA, PERFORMACE E RECURSOS](https://youtube.com/playlist?list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex)
-* ✅ SEGURANÇA, PERFORMACE E RECURSOS
-* ✅ SEU WORDPRESS MAIS RÁPIDO
-* ✅ W3 TOTAL CACHE
-* ✅ FAZENDO MIGRAÇÃO DE UM SITE
-* ✅ ATUALIZAÇÃO AUTOMÁTICA
-* ✅ TORNE O WORDPRESS MAIS SEGURO
-* ✅ FAZENDO O BACKTUP DO SEU SITE
-* ✅ CRIANDO TRADUÇÕES
-* ✅ LIGANDO O WORDPRESS AO TELEGRAM
-
-# 📹VIDEOS DO YOUTUBE:
-* [CRIANDO SITE NO WORDPRESS COM TAMPLATE PRONTA](https://youtu.be/_wBsTdvTwZ0?si=Y01y_iIzmI4pnKbR)
-* [CRIANDO SITE NO WORDPRESS](https://youtu.be/hQscp7Nixho?si=8r7CPKfZ-E134AkQ)
-* [A EXECUÇÃO DO SITE FRESCO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
 
 ![](https://i.imgur.com/waxVImv.png)
 
