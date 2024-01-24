@@ -2,16 +2,10 @@
 👨‍⚖️WORDPRESS É UMA PLATAFORMA DE GERENCIAMENTO DE CONTEÚDO WEB (SITES).
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=wordpress)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://wordpress.org/documentation/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex)
-
-<img src="https://avatars.githubusercontent.com/u/46797108?s=280&v=4" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 💚SUA HISTÓRIA:
 O WordPress é uma plataforma de gerenciamento de conteúdo (CMS - Content Management System) que foi lançada pela primeira vez em 2003. Foi desenvolvido por Matt Mullenweg e Mike Little como um fork do projeto b2/cafelog. O objetivo era criar uma plataforma simples e fácil de usar para a criação e gerenciamento de blogs.
