@@ -77,6 +77,7 @@ Atualmente, o WordPress é usado por milhões de sites em todo o mundo, desde pe
     - [MODULO 2](https://youtube.com/playlist?list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://wordpress.org/documentation/)
+- [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:WORDPRESS)
 
