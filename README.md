@@ -72,7 +72,7 @@ Atualmente, o WordPress é usado por milhões de sites em todo o mundo, desde pe
 5. **Curva de Aprendizado para Recursos Avançados:** Embora seja fácil começar com o WordPress, pode haver uma curva de aprendizado para recursos mais avançados, como desenvolvimento de temas e plugins personalizados, que requerem conhecimentos de programação mais avançados.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
     - [MODULO 1](https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2)
     - [MODULO 2](https://youtube.com/playlist?list=PLHz_AreHm4dlaFljwHeYItI357b2q7bex)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
